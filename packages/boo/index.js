@@ -1,7 +1,11 @@
 const foo = require('@hossein-zamanian/foo')
 
+function trace(value) {
+    console.trace(value)
+}
+
 function boo() {
-    console.log('hi from boo')
+    trace('hi from boo')
     foo()
 }
 
