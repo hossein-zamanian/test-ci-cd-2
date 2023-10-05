@@ -1,0 +1,11 @@
+{
+  "name": "@hossein-zamanian/root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "lerna": "^7.3.0"
+  }
+}
