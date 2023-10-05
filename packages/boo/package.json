@@ -1,6 +1,6 @@
 {
   "name": "@hossein-zamanian/boo",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@hossein-zamanian/foo": "1.0.0"
+    "@hossein-zamanian/foo": "^1.1.0"
   }
 }
